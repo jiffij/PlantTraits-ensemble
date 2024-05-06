@@ -1,6 +1,6 @@
 # PlantTraits-ensemble
 
-This is the implementation of the VIT-MHA ensemble model participating the PlantTraits2024 Challenge. We ranked top 10% in Kaggle Leaderboard by the time of submission.
+This is the implementation of the VIT-MHA ensemble model participating the PlantTraits2024 Challenge. We ranked <strong>top 10%</strong> in Kaggle Leaderboard by the time of submission.
 
 ![Alt text](imgs/kaggle-leaderboard_Page_1.png)
 ![Alt text](imgs/kaggle-leaderboard_Page_2.png)
